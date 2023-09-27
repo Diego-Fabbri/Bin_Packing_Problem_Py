@@ -1,0 +1,24 @@
+Time = 0.08
+Number of bins used (Obj value) = 4.0
+Solver Status is = ok
+Termination Condition is = optimal
+Bin  0
+-- Item  0 weight  48
+-- Item  1 weight  48
+-- Item  2 weight  48
+Packed bin weight:   97
+Bin  1
+-- Item  3 weight  30
+-- Item  4 weight  30
+-- Item  5 weight  30
+Packed bin weight:   99
+Bin  2
+-- Item  6 weight  19
+-- Item  7 weight  19
+Packed bin weight:   84
+Bin  3
+-- Item  8 weight  36
+-- Item  9 weight  36
+-- Item  10 weight  36
+Packed bin weight:   90
+Total packed weight:  370
